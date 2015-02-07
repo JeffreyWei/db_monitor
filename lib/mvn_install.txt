@@ -1,0 +1,2 @@
+mvn install:install-file -DgroupId=clientsdk -DartifactId=clientsdk -Dversion=2.0.2 -Dpackaging=jar -Dfile=clientsdk-2.0.2.jar -DgeneratePom=true
+mvn install:install-file -DgroupId=xquery -DartifactId=xquery -Dversion=1.0.0 -Dpackaging=jar -Dfile=xquery-1.0.0.jar -DgeneratePom=true

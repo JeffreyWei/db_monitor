@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="db_monitor"
+  id="myeclipse.1374027800056"
+  context-root="/db_monitor"
+  j2ee-spec="6.0"
+  archive="db_monitor.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
